@@ -11,3 +11,4 @@ This folder contains a small React Native (Expo) application that demonstrates h
 You will need a Tesla API access token. The app can fetch your vehicles from the Tesla API and automatically fill in the first vehicle ID.
 
 If you prefer a native Android version, see the `../android` folder.
+Test 
